@@ -1,0 +1,7 @@
+Customer_ID,Full Name,Signup_Date,Email_Address,Phone_Number,Purchase_Amount,Status,Email_Valid
+101.0,John Smith,2026-01-15,john.smith@email.com,9876543210,150.5, Active,True
+102.0,Sarah Jones,,sarah.j@email.com,,450.0,Active,True
+103.0,Mike Brown,,mike.b@email.com,9876543210,0.0,Pending,True
+104.0,Emma Watson,2026-01-17,emma.w@email.com,9876543210,85.2,cancelled,True
+105.0,David,,david.d@email,9876543210,0.0,Active,False
+106.0,Robert Fox,2026-01-19,robert.fox@email.com,9876543210,320.0,Active,True
